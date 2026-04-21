@@ -1,0 +1,887 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260421175803TBXCIZ</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260421175803LXUFSW</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Planificando un viaje de ensueño</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Guillermo Méndez González</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Diseña un caso práctico con la finalidad principal de concienciar al alumnado sobre la importancia de la comunicación segura y responsable durante la planificación de un viaje, promoviendo el uso adecuado del inglés en situaciones reales y fomentando actitudes de respeto, autonomía y trabajo cooperativo.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-rc1</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1776783550560</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mo8qynl3-f4px2dgf5</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Planificando un viaje de ensueño</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Planificando un viaje de ensueño</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Planificando un viaje de ensueño</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo8qynl3-f4px2dgf5</odePageId>
+      <odeBlockId>block-mo8qynl3-z6kov2wtd</odeBlockId>
+      <blockName>Planificando un viaje de ensueño: uso real del inglés</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo8qynl3-f4px2dgf5</odePageId>
+          <odeBlockId>block-mo8qynl3-z6kov2wtd</odeBlockId>
+          <odeIdeviceId>idevice-mo8qynl3-s7awyk3c5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/mceclip0.png" width="1536" height="1024" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mo8qynl3-s7awyk3c5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/mceclip0.png\" width=\"1536\" height=\"1024\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo8qynl3-g06zlig7v</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>1. Introducción</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Introducción</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo8qynl3-g06zlig7v</odePageId>
+      <odeBlockId>block-mo8qynl3-7n9yb6n4m</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo8qynl3-g06zlig7v</odePageId>
+          <odeBlockId>block-mo8qynl3-7n9yb6n4m</odeBlockId>
+          <odeIdeviceId>idevice-mo8qynl3-9k0km9zgw</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El desarrollo de esta situación de aprendizaje responde a la necesidad de formar alumnado competente en el uso de la lengua inglesa, capaz de comunicarse de manera eficaz, responsable y segura en contextos cotidianos como la planificación y realización de un viaje.</p>
+<p>La enseñanza del idioma no se limita al aprendizaje de vocabulario y estructuras gramaticales, sino que busca fomentar una comunicación real y significativa, integrando habilidades lingüísticas, actitudes de respeto intercultural y la conciencia de la importancia de desenvolverse adecuadamente en situaciones de la vida diaria.</p>
+<p>El impacto esperado se centra en:</p>
+<p>Fomentar el uso funcional del inglés en contextos cercanos y motivadores, promoviendo la participación activa del alumnado.<br />Consolidar competencias lingüísticas y sociales que favorezcan la comunicación efectiva en situaciones reales.<br />Promover la autonomía, la reflexión y la toma de decisiones en la planificación de un viaje.<br />Desarrollar competencias digitales y comunicativas mediante la creación de materiales como presentaciones, pósteres o vídeos para exponer su viaje de ensueño.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mo8qynl3-9k0km9zgw","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<p>El desarrollo de esta situación de aprendizaje responde a la necesidad de formar alumnado competente en el uso de la lengua inglesa, capaz de comunicarse de manera eficaz, responsable y segura en contextos cotidianos como la planificación y realización de un viaje.</p>\n<p>La enseñanza del idioma no se limita al aprendizaje de vocabulario y estructuras gramaticales, sino que busca fomentar una comunicación real y significativa, integrando habilidades lingüísticas, actitudes de respeto intercultural y la conciencia de la importancia de desenvolverse adecuadamente en situaciones de la vida diaria.</p>\n<p>El impacto esperado se centra en:</p>\n<p>Fomentar el uso funcional del inglés en contextos cercanos y motivadores, promoviendo la participación activa del alumnado.<br />Consolidar competencias lingüísticas y sociales que favorezcan la comunicación efectiva en situaciones reales.<br />Promover la autonomía, la reflexión y la toma de decisiones en la planificación de un viaje.<br />Desarrollar competencias digitales y comunicativas mediante la creación de materiales como presentaciones, pósteres o vídeos para exponer su viaje de ensueño.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mo8qynl3-g06zlig7v</odePageId>
+      <odeBlockId>block-mo8qynl3-u32baeuq3</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo8qynl3-g06zlig7v</odePageId>
+          <odeBlockId>block-mo8qynl3-u32baeuq3</odeBlockId>
+          <odeIdeviceId>idevice-mo8qynl3-vtju7313l</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>gfhfgh</p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>gfhfgh</p>"}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo8qynl3-3yvt2o2kd</odePageId>
+  <odeParentPageId>page-mo8qynl3-g06zlig7v</odeParentPageId>
+  <pageName>1.1 Reto propuesto</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1.1 Reto propuesto</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo8qynl3-3yvt2o2kd</odePageId>
+      <odeBlockId>block-mo8qynl3-nuudx9zds</odeBlockId>
+      <blockName>Descripción general</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo8qynl3-3yvt2o2kd</odePageId>
+          <odeBlockId>block-mo8qynl3-nuudx9zds</odeBlockId>
+          <odeIdeviceId>idevice-mo8qynl3-cpm57u9sa</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta actividad vais a trabajar la comprensión y el uso del inglés a través de una situación real y motivadora: diseñar un proyecto en el que planificaréis un viaje de ensueño a un país de habla inglesa.</p>
+<p>El objetivo es que seáis capaces de buscar información, seleccionar lugares de interés, organizar actividades y comunicar vuestros planes utilizando el inglés. Además, deberéis presentar vuestro proyecto de forma clara y creativa, utilizando recursos digitales para compartir vuestra propuesta de viaje con el resto de la clase.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mo8qynl3-cpm57u9sa","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<p>En esta actividad vais a trabajar la comprensión y el uso del inglés a través de una situación real y motivadora: diseñar un proyecto en el que planificaréis un viaje de ensueño a un país de habla inglesa.</p>\n<p>El objetivo es que seáis capaces de buscar información, seleccionar lugares de interés, organizar actividades y comunicar vuestros planes utilizando el inglés. Además, deberéis presentar vuestro proyecto de forma clara y creativa, utilizando recursos digitales para compartir vuestra propuesta de viaje con el resto de la clase.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo8qynl3-o7qe1hrrx</odePageId>
+  <odeParentPageId>page-mo8qynl3-g06zlig7v</odeParentPageId>
+  <pageName>1.2 Productos finales</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1.2 Productos finales</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo8qynl3-o7qe1hrrx</odePageId>
+      <odeBlockId>block-mo8qynl3-xk8lrkg9p</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo8qynl3-o7qe1hrrx</odePageId>
+          <odeBlockId>block-mo8qynl3-xk8lrkg9p</odeBlockId>
+          <odeIdeviceId>idevice-mo8qynl3-yumf6xg06</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Proyecto de viaje: describir un viaje de ensueño a un país de habla inglesa, incluyendo destino, transporte, alojamiento y actividades a realizar.<br />Póster o presentación digital: mostrar la información principal del viaje (lugares a visitar, itinerario, presupuesto básico) utilizando imágenes y texto en inglés de forma clara y atractiva.<br />Producto multimedia (vídeo o presentación oral): explicar de forma sencilla y comprensible vuestro viaje, usando expresiones en inglés para describir planes, recomendar actividades y justificar por qué habéis elegido ese destino.<br />Para ello utilizaréis herramientas digitales como Canva, Genially o aplicaciones de edición de vídeo y audio, y podréis integrar el uso de la inteligencia artificial para mejorar la creatividad, el diseño y la comunicación de vuestro proyecto.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mo8qynl3-yumf6xg06","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<p>Proyecto de viaje: describir un viaje de ensueño a un país de habla inglesa, incluyendo destino, transporte, alojamiento y actividades a realizar.<br />Póster o presentación digital: mostrar la información principal del viaje (lugares a visitar, itinerario, presupuesto básico) utilizando imágenes y texto en inglés de forma clara y atractiva.<br />Producto multimedia (vídeo o presentación oral): explicar de forma sencilla y comprensible vuestro viaje, usando expresiones en inglés para describir planes, recomendar actividades y justificar por qué habéis elegido ese destino.<br />Para ello utilizaréis herramientas digitales como Canva, Genially o aplicaciones de edición de vídeo y audio, y podréis integrar el uso de la inteligencia artificial para mejorar la creatividad, el diseño y la comunicación de vuestro proyecto.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mo8qynl3-o7qe1hrrx</odePageId>
+      <odeBlockId>block-mo8qynl3-ecn8h0xh3</odeBlockId>
+      <blockName>Competencias y principios DUA</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo8qynl3-o7qe1hrrx</odePageId>
+          <odeBlockId>block-mo8qynl3-ecn8h0xh3</odeBlockId>
+          <odeIdeviceId>idevice-mo8qynl3-aopxqinek</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>Competencias: seguridad laboral, digital, comunicación, trabajo en equipo, pensamiento crítico.<br />DUA:Múltiples formas de representación: visual (infografía), oral (podcast), escrita (guion).<br />Implicación: elección del caso y formato multimedia.<br />Expresión: productos diversos y creativos.</p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>Competencias: seguridad laboral, digital, comunicación, trabajo en equipo, pensamiento crítico.<br />DUA:Múltiples formas de representación: visual (infografía), oral (podcast), escrita (guion).<br />Implicación: elección del caso y formato multimedia.<br />Expresión: productos diversos y creativos.</p>"}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mo8qynl3-o7qe1hrrx</odePageId>
+      <odeBlockId>block-mo8qynl3-gx37n1bry</odeBlockId>
+      <blockName>Duración y organización</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo8qynl3-o7qe1hrrx</odePageId>
+          <odeBlockId>block-mo8qynl3-gx37n1bry</odeBlockId>
+          <odeIdeviceId>idevice-mo8qynl4-a1fvph7a0</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>Sesión 1: Introducción al proyecto, análisis de ejemplos reales e investigación sobre riesgos y medidas preventivas en soldadura y calderería.<br />Sesión 2: Diseña un caso concreto y realiza una infografía interactiva.<br />Sesión 3 y 4: Grabación y edición de podcast o vídeo explicativo.</p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>Sesión 1: Introducción al proyecto, análisis de ejemplos reales e investigación sobre riesgos y medidas preventivas en soldadura y calderería.<br />Sesión 2: Diseña un caso concreto y realiza una infografía interactiva.<br />Sesión 3 y 4: Grabación y edición de podcast o vídeo explicativo.</p>"}]]></jsonProperties>
+          <odeComponentsOrder>2</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mo8qynl3-o7qe1hrrx</odePageId>
+      <odeBlockId>block-mo8qynl4-mk5h24vbp</odeBlockId>
+      <blockName>Impacto esperado</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo8qynl3-o7qe1hrrx</odePageId>
+          <odeBlockId>block-mo8qynl4-mk5h24vbp</odeBlockId>
+          <odeIdeviceId>idevice-mo8qynl4-hz79jw8ox</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>Reducir la siniestralidad escolar y profesional fomentando hábitos seguros.<br />Consolidar competencias técnicas y personales para la inserción laboral responsable.<br />Promover autonomía y autorregulación en el uso de equipos y herramientas.<br />Desarrollar competencias digitales y comunicativas al crear materiales que difundan mensajes de seguridad.</p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>Reducir la siniestralidad escolar y profesional fomentando hábitos seguros.<br />Consolidar competencias técnicas y personales para la inserción laboral responsable.<br />Promover autonomía y autorregulación en el uso de equipos y herramientas.<br />Desarrollar competencias digitales y comunicativas al crear materiales que difundan mensajes de seguridad.</p>"}]]></jsonProperties>
+          <odeComponentsOrder>3</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo8qynl3-5bnrg7gas</odePageId>
+  <odeParentPageId>page-mo8qynl3-g06zlig7v</odeParentPageId>
+  <pageName>1.3 Fases de la SA</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1.3 Fases de la SA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo8qynl3-5bnrg7gas</odePageId>
+      <odeBlockId>block-mo8qynl4-x2lu4u0jq</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo8qynl3-5bnrg7gas</odePageId>
+          <odeBlockId>block-mo8qynl4-x2lu4u0jq</odeBlockId>
+          <odeIdeviceId>idevice-mo8qynl4-79q1m2a6e</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Las fases de la SA son las siguientes:</p>
+<p><br /></p>
+<div class="exe-fx exe-accordion">
+<h2>Fase 1: Descubrir el reto</h2>
+<p style="text-align: justify;">La tarea propuesta en esta primera fase es entender la SA propuesta e investiga las distintas aplicaciones mediante el análisis de ejemplos reales </p>
+<p><br /></p>
+</div>
+<div class="exe-fx exe-accordion">
+<h2>Fase 2: Manos a la obra </h2>
+<p style="text-align: justify;">La tarea propuesta en esta segunda fase es crear, en equipo, un caso concreto y original de aplicación mediante una lluvia de ideas y posteriormente diseñar una infografía interactiva que explique la aplicación. La Infografía debe realizarse con Genially o Canva.</p>
+</div>
+<div class="exe-fx exe-accordion">
+<h2>Fase 3: Crear contenido multimedia</h2>
+<p>En esta fase deberéis comunicar vuestro proyecto de forma oral o audiovisual, integrando creatividad y herramientas digitales. Para ello, tendréis como tarea la grabación y edición de un vídeo o una presentación oral breve en la que expliquéis vuestro viaje de ensueño.</p>
+<p>Deberéis describir el destino elegido, las actividades que vais a realizar y los planes previstos, utilizando expresiones en inglés trabajadas en clase. El objetivo es que comuniquéis vuestro proyecto de forma clara, comprensible y atractiva.</p>
+<p>Podréis utilizar herramientas digitales como Microsoft Stream, Clipchamp, Canva Video, Audacity u otras aplicaciones similares para grabar, editar y mejorar la calidad de vuestra presentación.</p>
+</div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mo8qynl4-79q1m2a6e","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<p>Las fases de la SA son las siguientes:</p>\n<p><br /></p>\n<div class=\"exe-fx exe-accordion\">\n<h2>Fase 1: Descubrir el reto</h2>\n<p style=\"text-align: justify;\">La tarea propuesta en esta primera fase es entender la SA propuesta e investiga las distintas aplicaciones mediante el análisis de ejemplos reales </p>\n<p><br /></p>\n</div>\n<div class=\"exe-fx exe-accordion\">\n<h2>Fase 2: Manos a la obra </h2>\n<p style=\"text-align: justify;\">La tarea propuesta en esta segunda fase es crear, en equipo, un caso concreto y original de aplicación mediante una lluvia de ideas y posteriormente diseñar una infografía interactiva que explique la aplicación. La Infografía debe realizarse con Genially o Canva.</p>\n</div>\n<div class=\"exe-fx exe-accordion\">\n<h2>Fase 3: Crear contenido multimedia</h2>\n<p>En esta fase deberéis comunicar vuestro proyecto de forma oral o audiovisual, integrando creatividad y herramientas digitales. Para ello, tendréis como tarea la grabación y edición de un vídeo o una presentación oral breve en la que expliquéis vuestro viaje de ensueño.</p>\n<p>Deberéis describir el destino elegido, las actividades que vais a realizar y los planes previstos, utilizando expresiones en inglés trabajadas en clase. El objetivo es que comuniquéis vuestro proyecto de forma clara, comprensible y atractiva.</p>\n<p>Podréis utilizar herramientas digitales como Microsoft Stream, Clipchamp, Canva Video, Audacity u otras aplicaciones similares para grabar, editar y mejorar la calidad de vuestra presentación.</p>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo8qynl3-7qy7gt28t</odePageId>
+  <odeParentPageId>page-mo8qynl3-g06zlig7v</odeParentPageId>
+  <pageName>1.4 Materiales de apoyo</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1.4 Materiales de apoyo</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo8qynl3-7qy7gt28t</odePageId>
+      <odeBlockId>block-mo8qynl4-asloflnte</odeBlockId>
+      <blockName>Infografía interactiva</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo8qynl3-7qy7gt28t</odePageId>
+          <odeBlockId>block-mo8qynl4-asloflnte</odeBlockId>
+          <odeIdeviceId>idevice-mo8qynl4-zsefb54s8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><strong><span style="color: #ff0000;">Infografía interactiva</span></strong><br /> <br />A continuación se detallan los aspectos a tener en cuenta en el diseño de la infografía interactiva que debes entregar a través de la tarea creada en Teams.</p>
+<p>La temática del póster o presentación debe centrarse en la planificación de un viaje de ensueño a un país de habla inglesa. Si necesitáis utilizar imágenes, podéis generarlas con inteligencia artificial o emplear imágenes libres de derechos de autor.</p>
+<p>En el póster o presentación deben aparecer los siguientes datos: nombre de los miembros del equipo, curso y fecha.</p>
+<p style="text-align: justify;">A continuación puedes visualizar un vídeo sobre como utilizar Genially:</p>
+<p><iframe width="560" height="314" src="https://www.youtube.com/embed/cbu05yL_SKE" allowfullscreen="allowfullscreen"></iframe></p>
+<p>A continuación puedes visualizar un vídeo sobre como utilizar Canva:</p>
+<p><iframe width="560" height="314" src="https://www.youtube.com/embed/guDELFQF-Lg" allowfullscreen="allowfullscreen"></iframe></p>
+<p>Rúbrica de la infografía (Ver apartado 3. Evaluación e instrumentos).</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mo8qynl4-zsefb54s8","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<p style=\"text-align: justify;\"><strong><span style=\"color: #ff0000;\">Infografía interactiva</span></strong><br /> <br />A continuación se detallan los aspectos a tener en cuenta en el diseño de la infografía interactiva que debes entregar a través de la tarea creada en Teams.</p>\n<p>La temática del póster o presentación debe centrarse en la planificación de un viaje de ensueño a un país de habla inglesa. Si necesitáis utilizar imágenes, podéis generarlas con inteligencia artificial o emplear imágenes libres de derechos de autor.</p>\n<p>En el póster o presentación deben aparecer los siguientes datos: nombre de los miembros del equipo, curso y fecha.</p>\n<p style=\"text-align: justify;\">A continuación puedes visualizar un vídeo sobre como utilizar Genially:</p>\n<p><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/cbu05yL_SKE\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p>A continuación puedes visualizar un vídeo sobre como utilizar Canva:</p>\n<p><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/guDELFQF-Lg\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p>Rúbrica de la infografía (Ver apartado 3. Evaluación e instrumentos).</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mo8qynl3-7qy7gt28t</odePageId>
+      <odeBlockId>block-mo8qynl4-red96rzp1</odeBlockId>
+      <blockName>Vídeo o Podcast</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo8qynl3-7qy7gt28t</odePageId>
+          <odeBlockId>block-mo8qynl4-red96rzp1</odeBlockId>
+          <odeIdeviceId>idevice-mo8qynl4-j9n8255li</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><strong><span style="color: #ff0000;">Vídeo o Podcast </span></strong><br /> <br /></p>
+<p>A lo largo de esta actividad vais a diseñar un vídeo o una presentación oral (2-5 minutos) creativa para explicar vuestro viaje de ensueño a un país de habla inglesa. A continuación, se detallan los pasos y orientaciones que debéis seguir:</p>
+<p>El vídeo o presentación debe tener como tema principal la descripción de vuestro viaje: destino, actividades, lugares que vais a visitar y planes previstos. Antes de empezar a grabar, debéis trabajar en grupo para que en el producto final aparezcan los siguientes datos: nombre de los miembros del equipo, curso y fecha. Aseguraos de que tenga una estructura clara: introducción, desarrollo y cierre, utilizando un lenguaje sencillo y adecuado en inglés.</p>
+<p>Recordad que, si necesitáis imágenes, vídeos o música para vuestro trabajo, debéis utilizar recursos libres de derechos o con licencia Creative Commons. Es recomendable crear vuestros propios contenidos siempre que sea posible (fotos, grabaciones de voz, dibujos…).</p>
+<p>Dentro de cada equipo (4-5 personas), distribuid las tareas de forma equilibrada para aprovechar vuestras habilidades (guion, diseño, grabación, edición, presentación…).</p>
+<p>Las herramientas recomendadas para la edición de vídeo son Clipchamp y Canva (vídeo). Para grabar y editar audio, podéis utilizar Audacity u otras aplicaciones sencillas.</p>
+<p>Uno de los integrantes del grupo deberá compartir el trabajo final con el profesor y el resto de la clase a través de la plataforma digital que se utilice en el aula.</p>
+<p>Aseguraos de que el audio sea claro, sin ruidos ni interrupciones, y utilizad un tono pausado y comprensible.</p>
+<p>La rúbrica de evaluación del vídeo o presentación se encuentra en el apartado 3.</p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mo8qynl4-j9n8255li","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<p style=\"text-align: justify;\"><strong><span style=\"color: #ff0000;\">Vídeo o Podcast </span></strong><br /> <br /></p>\n<p>A lo largo de esta actividad vais a diseñar un vídeo o una presentación oral (2-5 minutos) creativa para explicar vuestro viaje de ensueño a un país de habla inglesa. A continuación, se detallan los pasos y orientaciones que debéis seguir:</p>\n<p>El vídeo o presentación debe tener como tema principal la descripción de vuestro viaje: destino, actividades, lugares que vais a visitar y planes previstos. Antes de empezar a grabar, debéis trabajar en grupo para que en el producto final aparezcan los siguientes datos: nombre de los miembros del equipo, curso y fecha. Aseguraos de que tenga una estructura clara: introducción, desarrollo y cierre, utilizando un lenguaje sencillo y adecuado en inglés.</p>\n<p>Recordad que, si necesitáis imágenes, vídeos o música para vuestro trabajo, debéis utilizar recursos libres de derechos o con licencia Creative Commons. Es recomendable crear vuestros propios contenidos siempre que sea posible (fotos, grabaciones de voz, dibujos…).</p>\n<p>Dentro de cada equipo (4-5 personas), distribuid las tareas de forma equilibrada para aprovechar vuestras habilidades (guion, diseño, grabación, edición, presentación…).</p>\n<p>Las herramientas recomendadas para la edición de vídeo son Clipchamp y Canva (vídeo). Para grabar y editar audio, podéis utilizar Audacity u otras aplicaciones sencillas.</p>\n<p>Uno de los integrantes del grupo deberá compartir el trabajo final con el profesor y el resto de la clase a través de la plataforma digital que se utilice en el aula.</p>\n<p>Aseguraos de que el audio sea claro, sin ruidos ni interrupciones, y utilizad un tono pausado y comprensible.</p>\n<p>La rúbrica de evaluación del vídeo o presentación se encuentra en el apartado 3.</p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo8qynl3-yeqiva00r</odePageId>
+  <odeParentPageId>page-mo8qynl3-g06zlig7v</odeParentPageId>
+  <pageName>1.5 Medidas de accesibilidad (DUA)</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1.5 Medidas de accesibilidad (DUA)</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo8qynl3-yeqiva00r</odePageId>
+      <odeBlockId>block-mo8qynl4-kgdc86qj8</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo8qynl3-yeqiva00r</odePageId>
+          <odeBlockId>block-mo8qynl4-kgdc86qj8</odeBlockId>
+          <odeIdeviceId>idevice-mo8qynl4-ompntt6ew</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-fx exe-timeline">
+<div class="exe-fx exe-carousel">
+<h2 style="text-align: justify;">1. Múltiples formas de acción y expresión (el cómo del aprendizaje)</h2>
+<p style="text-align: justify;">Permitirá que el alumnado exprese lo aprendido de distintas maneras, ajustándose a sus fortalezas y necesidades.</p>
+<p style="text-align: justify;">Medidas aplicadas:</p>
+<p style="text-align: justify;">- Elección entre crear un podcast o un vídeo breve, según habilidades comunicativas e intereses personales.<br />- Posibilidad de trabajar en diferentes formatos digitales: imagen, audio, vídeo<br />- Uso de herramientas digitales accesibles como Canva, Genially, Clipchamp, que permiten trabajar con plantillas y asistentes visuales.<br />- Apoyo para el uso de software libre con videotutoriales .<br />- Permitir el trabajo en grupo, para que el alumnado con dificultades tecnológicas o comunicativas se apoye en compañeros/as.</p>
+<h2 style="text-align: justify;">2. Múltiples formas de representación (el qué del aprendizaje)</h2>
+<p style="text-align: justify;">Se trata de ofrecer distintos modos de presentar la información y los contenidos para que todo el alumnado pueda acceder a ellos, independientemente de sus características o estilos de aprendizaje.</p>
+<p style="text-align: justify;">Medidas aplicadas:</p>
+<p style="text-align: justify;">- Uso de materiales audiovisuales (vídeos explicativos, ejemplos visuales, tutoriales).<br />- Modelos visuales y ejemplos previos de infografías y podcasts para que el alumnado comprenda qué se espera.</p>
+<h2 style="text-align: justify;">3. Múltiples formas de implicación (el por qué del aprendizaje)</h2>
+<p style="text-align: justify;">Se trata de que el alumnado se sienta motivado/a y comprometido/a mediante opciones de elección y vinculación con tus intereses.</p>
+<p style="text-align: justify;">Medidas aplicadas:</p>
+<p style="text-align: justify;">- Vinculación de la SA con una situación real.<br />- Elección del formato del producto final (podcast o vídeo) y posibilidad de escoger roles diferentes dentro del equipo: diseño, locución, edición, guion, etc.<br />- Fomento del trabajo cooperativo, pero con espacio para la autonomía personal.<br />- Posibilidad de que el alumnado comparta públicamente su trabajo (en redes del centro, eventos o exposiciones), aumentando la motivación.</p>
+</div>
+<p><span style="background-color: #ffffff; font-size: 1.05em;"> </span></p>
+</div>
+<p><br /><br /><br /><br /> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mo8qynl4-ompntt6ew","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<div class=\"exe-fx exe-timeline\">\n<div class=\"exe-fx exe-carousel\">\n<h2 style=\"text-align: justify;\">1. Múltiples formas de acción y expresión (el cómo del aprendizaje)</h2>\n<p style=\"text-align: justify;\">Permitirá que el alumnado exprese lo aprendido de distintas maneras, ajustándose a sus fortalezas y necesidades.</p>\n<p style=\"text-align: justify;\">Medidas aplicadas:</p>\n<p style=\"text-align: justify;\">- Elección entre crear un podcast o un vídeo breve, según habilidades comunicativas e intereses personales.<br />- Posibilidad de trabajar en diferentes formatos digitales: imagen, audio, vídeo<br />- Uso de herramientas digitales accesibles como Canva, Genially, Clipchamp, que permiten trabajar con plantillas y asistentes visuales.<br />- Apoyo para el uso de software libre con videotutoriales .<br />- Permitir el trabajo en grupo, para que el alumnado con dificultades tecnológicas o comunicativas se apoye en compañeros/as.</p>\n<h2 style=\"text-align: justify;\">2. Múltiples formas de representación (el qué del aprendizaje)</h2>\n<p style=\"text-align: justify;\">Se trata de ofrecer distintos modos de presentar la información y los contenidos para que todo el alumnado pueda acceder a ellos, independientemente de sus características o estilos de aprendizaje.</p>\n<p style=\"text-align: justify;\">Medidas aplicadas:</p>\n<p style=\"text-align: justify;\">- Uso de materiales audiovisuales (vídeos explicativos, ejemplos visuales, tutoriales).<br />- Modelos visuales y ejemplos previos de infografías y podcasts para que el alumnado comprenda qué se espera.</p>\n<h2 style=\"text-align: justify;\">3. Múltiples formas de implicación (el por qué del aprendizaje)</h2>\n<p style=\"text-align: justify;\">Se trata de que el alumnado se sienta motivado/a y comprometido/a mediante opciones de elección y vinculación con tus intereses.</p>\n<p style=\"text-align: justify;\">Medidas aplicadas:</p>\n<p style=\"text-align: justify;\">- Vinculación de la SA con una situación real.<br />- Elección del formato del producto final (podcast o vídeo) y posibilidad de escoger roles diferentes dentro del equipo: diseño, locución, edición, guion, etc.<br />- Fomento del trabajo cooperativo, pero con espacio para la autonomía personal.<br />- Posibilidad de que el alumnado comparta públicamente su trabajo (en redes del centro, eventos o exposiciones), aumentando la motivación.</p>\n</div>\n<p><span style=\"background-color: #ffffff; font-size: 1.05em;\"> </span></p>\n</div>\n<p><br /><br /><br /><br /> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo8qynl3-4el59x5tl</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>2. Juegos y actividades</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Juegos y actividades</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo8qynl3-4el59x5tl</odePageId>
+      <odeBlockId>block-mo8qynl4-zqfa6f60m</odeBlockId>
+      <blockName>A-Z Quiz Game</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo8qynl3-4el59x5tl</odePageId>
+          <odeBlockId>block-mo8qynl4-zqfa6f60m</odeBlockId>
+          <odeIdeviceId>idevice-mo8qynl4-rvrmcatnr</odeIdeviceId>
+          <odeIdeviceTypeName>az-quiz-game</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="rosco-IDevice"><div class="game-evaluation-ids js-hidden" data-id="idevice-mo8qynl4-rvrmcatnr" data-evaluationb="false" data-evaluationid=""></div><div class="rosco-version js-hidden">2</div><div class="rosco-instructions"><p>Observe las letras, identifique y rellene las palabras que faltan.</p></div><div class="rosco-DataGame js-hidden">%E9%B0%E6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%C0%FD%E1%F1%FD%B0%BE%B0%FB%FC%E1%E6%E0%E7%F1%E6%FB%FD%FC%E1%B0%A8%B0%AE%E2%AC%DD%F0%E1%F7%E0%E4%F7%B2%FE%F3%E1%B2%FE%F7%E6%E0%F3%E1%BE%B2%FB%F6%F7%FC%E6%FB%F4%FB%E3%E7%F7%B2%EB%B2%E0%F7%FE%FE%F7%FC%F7%B2%FE%F3%E1%B2%E2%F3%FE%F3%F0%E0%F3%E1%B2%E3%E7%F7%B2%F4%F3%FE%E6%F3%FC%BC%AE%BD%E2%AC%B0%BE%B0%E6%FB%FF%F7%C1%FA%FD%E5%C1%FD%FE%E7%E6%FB%FD%FC%B0%A8%A7%BE%B0%F6%E7%E0%F3%E6%FB%FD%FC%D5%F3%FF%F7%B0%A8%A0%A6%A2%BE%B0%FC%E7%FF%F0%F7%E0%C6%E7%E0%FC%E1%B0%A8%A0%BE%B0%E1%FA%FD%E5%C1%FD%FE%E7%E6%FB%FD%FC%B0%A8%E6%E0%E7%F7%BE%B0%E1%FA%FD%E5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%FB%E6%FB%FC%F7%E0%F3%E0%EB%B0%A8%E9%B0%E1%FA%FD%E5%D1%FE%E7%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FE%E7%F7%D5%F3%FF%F7%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%D1%FE%E7%F7%B0%A8%A6%A2%BE%B0%E1%FA%FD%E5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%BE%B0%FF%F7%E1%E1%F3%F5%F7%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%EF%BE%B0%E5%FD%E0%F6%E1%D5%F3%FF%F7%B0%A8%C9%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%D3%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%D3%FB%E0%E2%FD%E0%E6%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%D3%B2%E2%FE%F3%F1%F7%B2%E5%FA%F7%E0%F7%B2%E2%FE%F3%FC%F7%E1%B2%E6%F3%F9%F7%B2%FD%F4%F4%B2%F3%FC%F6%B2%FE%F3%FC%F6%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%D0%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%D0%F3%F5%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%D3%B2%F0%F3%F5%B2%EB%FD%E7%B2%F1%F3%E0%E0%EB%B2%E5%FA%F7%FC%B2%EB%FD%E7%B2%E6%E0%F3%E4%F7%FE%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%D1%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%D1%FB%E6%EB%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%D3%B2%F0%FB%F5%B2%F1%FB%E6%EB%B2%E5%FB%E6%FA%B2%FF%F3%FC%EB%B2%E2%F7%FD%E2%FE%F7%B2%F3%FC%F6%B2%F0%E7%FB%FE%F6%FB%FC%F5%E1%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%D6%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%D6%F7%E1%E6%FB%FC%F3%E6%FB%FD%FC%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%C6%FA%F7%B2%E2%FE%F3%F1%F7%B2%EB%FD%E7%B2%F5%FD%B2%E6%FD%B2%FB%FC%B2%EB%FD%E7%E0%B2%E6%E0%FB%E2%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%D7%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%D7%EA%F1%E7%E0%E1%FB%FD%FC%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%C1%FD%FF%F7%E6%FA%FB%FC%F5%B2%EB%FD%E7%B2%F1%F3%FC%B2%F5%FD%B2%FD%FC%B2%F3%B2%E6%E0%FB%E2%B2%E6%FD%B2%F7%FC%F8%FD%EB%B2%BA%FF%E7%E1%F7%E7%FF%BE%B2%E2%F3%E0%F9%u20B4%BB%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%D4%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%D5%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%DA%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%DB%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%D8%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%D9%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%E6%EB%E2%F7%B0%A8%A3%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%DE%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%DF%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%DC%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%E6%EB%E2%F7%B0%A8%A3%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0C%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%DD%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%E6%EB%E2%F7%B0%A8%A3%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%C2%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%C3%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%C0%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%C1%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%C6%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%C7%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%C4%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%C5%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%CA%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%CB%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%C8%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%CF%BE%B0%FB%E1%C1%F1%FD%E0%FF%B0%A8%A2%BE%B0%E6%F7%EA%E6%D0%E7%E6%E6%FD%FC%C1%F1%FD%E0%FF%B0%A8%B0%C1%F3%E4%F7%B2%E1%F1%FD%E0%F7%B0%BE%B0%E0%F7%E2%F7%F3%E6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%E6%E0%E7%F7%BE%B0%E5%F7%FB%F5%FA%E6%F7%F6%B0%A8%A3%A2%A2%BE%B0%FE%F7%E6%E6%F7%E0%E1%B0%A8%B0%D3%D0%D1%D6%D7%D4%D5%DA%DB%D8%D9%DE%DF%DCC%DD%C2%C3%C0%C1%C6%C7%C4%C5%CA%CB%C8%B0%BE%B0%E6%F7%EA%E6%D3%F4%E6%F7%E0%B0%A8%B0%B0%BE%B0%F1%F3%E1%F7%C1%F7%FC%E1%FB%E6%FB%E4%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%E4%F7%E0%E1%FB%FD%FC%B0%A8%A0%BE%B0%FF%FD%F6%F7%D0%FD%F3%E0%F6%B0%A8%E6%E0%E7%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%B0%A8%F4%F3%FE%E1%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%DB%D6%B0%A8%B0%B0%BE%B0%FB%F6%B0%A8%B0%FB%F6%F7%E4%FB%F1%F7%BF%FF%FD%AA%E3%EB%FC%FE%A6%BF%E0%E4%E0%FF%F1%F3%E6%FC%E0%B0%BE%B0%FF%E1%F5%E1%B0%A8%E9%B0%FF%E1%F5%C0%F7%F3%F6%EB%B0%A8%B0-%C2%E0%F7%E2%F3%E0%F3%F6%FD%AD%B0%BE%B0%FF%E1%F5%C1%E6%F3%E0%E6%D5%F3%FF%F7%B0%A8%B0%C2%E7%FE%E1%F7%B2%F3%E3%E7%7F%B2%E2%F3%E0%F3%B2%F7%FF%E2%F7%E8%F3%E0%B0%BE%B0%FF%E1%F5%DA%F3%E2%E2%F7%FC%B0%A8%B0%C2%F3%E1%F3%E0%B0%BE%B0%FF%E1%F5%C0%F7%E2%FE%EB%B0%A8%B0%C0%F7%E1%E2%FD%FC%F6%F7%E0%B0%BE%B0%FF%E1%F5%C1%E7%F0%FF%FB%E6%B0%A8%B0%D7%FC%E4%FB%F3%E0%B0%BE%B0%FF%E1%F5%D7%FC%E6%F7%E0%D1%FD%F6%F7%B0%A8%B0%DB%FC%E6%E0%FD%F6%E7%E8%F1%F3%B2%F7%FE%B2%F1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%D1%FD%F6%F7%B0%A8%B0%D7%FE%B2%F1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B2%FC%FD%B2%F7%E1%B2%F1%FD%E0%E0%F7%F1%E6%FD%B0%BE%B0%FF%E1%F5%D5%F3%FF%F7%DD%E4%F7%E0%B0%A8%B03%D4%FB%FC%B2%F6%F7%B2%FE%F3%B2%E2%F3%E0%E6%FB%F6%F3%B3%B0%BE%B0%FF%E1%F5%DC%F7%E5%C5%FD%E0%F6%B0%A8%B0%C2%F3%FE%F3%F0%E0%F3%B2%FC%E7%F7%E4%F3%B0%BE%B0%FF%E1%F5%C1%E6%F3%E0%E6%C5%FB%E6%FA%B0%A8%B0%D7%FF%E2%FB%F7%E8%F3%B2%E2%FD%E0%B2%B7%A3%B0%BE%B0%FF%E1%F5%D1%FD%FC%E6%F3%FB%FC%E6%B0%A8%B0%D1%FD%FC%E6%FB%F7%FC%F7%B2%FE%F3%B2%FE%F7%E6%E0%F3%B2%B7%A3%B0%BE%B0%FF%E1%F5%C2%F3%E1%E1%B0%A8%B0%C2%F3%E1%F3%E0%B2%F3%B2%FE%F3%B2%E1%FB%F5%E7%FB%F7%FC%E6%F7%B2%E2%F3%FE%F3%F0%E0%F3%B0%BE%B0%FF%E1%F5%DB%FC%F6%FB%F1%F3%E6%F7%C5%FD%E0%F6%B0%A8%B0%DB%FC%E6%E0%FD%F6%E7%E8%F1%F3%B2%E7%FC%F3%B2%E2%F3%FE%F3%F0%E0%F3%B0%BE%B0%FF%E1%F5%D1%FE%E7%F7%B0%A8%B03%D5%F7%FC%FB%F3%FE%B3%B2%DE%F3%B2%E2%FB%E1%E6%F3%B2%F7%E1%A8%B0%BE%B0%FF%E1%F5%DC%F7%E5%D5%F3%FF%F7%B0%A8%B0%C2%E7%FE%E1%F7%B2%F3%E3%E7%7F%B2%E2%F3%E0%F3%B2%F7%FF%E2%F7%E8%F3%E0%B2%FD%E6%E0%F3%B2%E2%F3%E0%E6%FB%F6%F3%B0%BE%B0%FF%E1%F5%CB%FD%E7%DA%F3%E1%B0%A8%B0%C6%FB%F7%FC%F7%B2%B7%A3%B2%F3%F1%FB%F7%E0%E6%FD%E1%B2%EB%B2%B7%A0%B2%F4%F3%FE%FE%FD%E1%B0%BE%B0%FF%E1%F5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%D1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%D3%F5%F3%FB%FC%B0%A8%B0%D8%E7%F5%F3%E0%B2%FD%E6%E0%F3%B2%E4%F7%E8%B0%BE%B0%FF%E1%F5%C0%F7%E3%E7%FB%E0%F7%F6%D3%F1%F1%F7%E1%E1%D9%F7%EB%B0%A8%B0%D7%E1%B2%FC%F7%F1%F7%E1%F3%E0%FB%FD%B2%F7%FE%B2%F1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%DE%FD%FD%F9%FB%FC%F5%B0%A8%B0%DE%F3%B2%FB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%B2%E3%E7%F7%B2%F7%E1%E6%F3%F0%F3%B2%F0%E7%E1%F1%F3%FC%F6%FD%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%E6%F3%E0%E6%B0%A8%B0%C2%E7%FE%E1%F7%B2%F3%E3%E7%7F%B2%E2%F3%E0%F3%B2%F8%E7%F5%F3%E0%B0%BE%B0%FF%E1%F5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%B0%DF%FB%FC%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%DF%F3%EA%FB%FF%FB%E8%F7%B0%A8%B0%DF%F3%EA%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%DA%FB%E6%E1%B0%A8%B0%D3%F1%FB%F7%E0%E6%FD%E1%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%E1%B0%A8%B0%D7%E0%E0%FD%E0%F7%E1%B0%BE%B0%FF%E1%F5%C6%FB%FF%F7%B0%A8%B0%DE%7F%FF%FB%E6%F7%B2%F6%F7%B2%E6%FB%F7%FF%E2%FD%B2%BA%FF%FF%A8%E1%E1%BB%B0%BE%B0%FF%E1%F5%DD%FC%F7%C0%FD%E7%FC%F6%B0%A8%B0%C7%FC%F3%B2%E4%E7%F7%FE%E6%F3%B0%BE%B0%FF%E1%F5%C6%FD%E5%C0%FD%E7%FC%F6%E1%B0%A8%B0%D6%FD%E1%B2%E4%E7%F7%FE%E6%F3%E1%B0%BE%B0%FF%E1%F5%DB%FF%F3%F5%F7%B0%A8%B0%DB%FF%F3%F5%F7%FC%B0%BE%B0%FF%E1%F5%DC%FD%DB%FF%F3%F5%F7%B0%A8%B0%C1%FB%FC%B2%FB%FFs%F5%F7%FC%F7%E1%B0%BE%B0%FF%E1%F5%C5%E0%FD%E6%F7%B0%A8%B0%D7%E1%F1%E0%FB%F0%F3%B2%FE%F3%B2%E2%F3%FE%F3%F0%E0%F3%B2%F1%FD%E0%E0%F7%F1%E6%F3%B2%EB%B2%E2%E7%FE%E1%F7%B2%F7%FC%B2%C0%F7%E1%E2%FD%FC%F6%F7%E0%BC%B2%C1%FB%B2%F6%E7%F6%F3%BE%B2%E2%E7%FE%E1%F7%B2%F7%FC%B2%C1%F7%F5%E7%FB%E0%BC%B0%BE%B0%FF%E1%F5%DC%FD%E6%DC%F7%E6%E5%FD%E0%F9%B0%A8%B0%D3%B2%F7%E1%E6%F7%B2%F8%E7%F7%F5%FD%B2%E1a%FE%FD%B2%E1%F7%B2%E2%E7%F7%F6%F7%B2%F8%E7%F5%F3%E0%B2%F1%FD%FC%B2%F1%FD%FC%F7%EA%FBa%FC%B2%F3%B2%FB%FC%E6%F7%E0%FC%F7%E6%BC%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F7%E1%B0%A8%B03%D1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%D7%EA%F1%F7%FE%F7%FC%E6%F7%B3%B2%EE%B23%D5%F7%FC%FB%F3%FE%B3%B2%EE%B23%DF%E7%EB%B2%F0%FB%F7%FC%B3%B2%EE%B23%C2%F7%E0%F4%F7%F1%E6%FD%B3%B0%BE%B0%FF%E1%F5%D4%F3%FB%FE%E7%E0%F7%E1%B0%A8%B03%DC%FD%B2%F7%E0%F3%B2%F7%E1%FD%B3%B2%EE%B23%DB%FC%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DC%FD%B2%F7%E1%B2%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DE%FD%B2%E1%F7%FC%E6%FB%FF%FD%E1%B3%B2%EE%B23%D7%E0%E0%FD%E0%B3%B0%BE%B0%FF%E1%F5%D7%FC%F6%D5%F3%FF%F7%C1%F1%FD%E0%F7%B0%A8%B0%D3%FC%E6%F7%E1%B2%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%F1%FD%FF%FB%F7%FC%F1%F7%B2%FE%F3%B2%E2%F3%E0%E6%FB%F6%F3%BC%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%C1%F1%FD%E0%FF%B0%A8%B0%DE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%FC%FD%B2%E1%F7%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E2%FD%E0%E3%E7%F7%B2%F7%E1%E6%F3%B2%E2s%F5%FB%FC%F3%B2%FC%FD%B2%F4%FD%E0%FF%F3%B2%E2%F3%E0%E6%F7%B2%B2%F6%F7%B2%E7%FC%B2%E2%F3%E3%E7%F7%E6%F7%B2%C1%D1%DD%C0%DF%BC%B0%BE%B0%FF%E1%F5%C1%FA%FD%E5%C0%FD%E7%FE%F7%E6%E6%F7%B0%A8%B0%DF%FD%E1%E6%E0%F3%E0%B2%F7%FE%B2%E0%FD%E1%F1%FD%B2%F6%F7%B2%E2%F3%FE%F3%F0%E0%F3%E1%B0%BE%B0%FF%E1%F5%DA%FB%F6%F7%C0%FD%E7%FE%F7%E6%E6%F7%B0%A8%B0%DD%F1%E7%FE%E6%F3%E0%B2%F7%FE%B2%E0%FD%E1%F1%FD%B2%F6%F7%B2%E2%F3%FE%F3%F0%E0%F3%E1%B0%BE%B0%FF%E1%F5%C3%E7%F7%E1%E6%FB%FD%FC%B0%A8%B0%C2%E0%F7%F5%E7%FC%E6%F3%B0%BE%B0%FF%E1%F5%D3%FC%E1%E5%F7%E0%B0%A8%B0%C0%F7%E1%E2%FD%FC%F6%F7%E0%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%C1%F1%FD%E0%F7%B0%A8%B03%C1a%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E7%FC%F3%B2%E4%F7%E8%B3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%B0%A8%B0%C1a%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%B0%BE%B0%FF%E1%F5%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%B0%A8%B0%DB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%CB%FD%E7%C1%F1%FD%E0%F7%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B2%C1a%FE%FD%B2%E2%E7%F7%F6%F7%B2%F8%E7%F5%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%BC%B0%BE%B0%FF%E1%F5%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F3%E7%E6%FD%FFs%E6%FB%F1%F3%FF%F7%FC%E6%F7%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B0%BE%B0%FF%E1%F5%D3%E7%E6%FA%FD%E0%B0%A8%B0%D3%E7%E6%FD%E0%7F%F3%B0%BE%B0%FF%E1%F5%C1%F7%E4%F7%E0%F3%FE%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E6%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%F1%FD%FF%FD%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%CB%FD%E7%DE%F3%E1%E6%C1%F1%FD%E0%F7%B0%A8%B0%DE%F3%B2h%FE%E6%FB%FF%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%F5%E7%F3%E0%F6%F3%F6%F3%B2%F7%E1%B0%BE%B0%FF%E1%F5%D3%F1%E6%FB%E6%EB%D1%FD%FF%E2%FE%EB%B0%A8%B0%CB%F3%B2%FA%F3%B2%E0%F7%F3%FE%FB%E8%F3%F6%FD%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%BC%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%F7%E4%F7%E0%F3%FE%C6%FB%FF%F7%E1%B0%A8%B0%C2%E7%F7%F6%F7%B2%E0%F7%F3%FE%FB%E8%F3%E0%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%B2%F1%E7%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C2%F3%FC%E6%F3%FE%FE%F3%B2%D1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%D7%EA%FB%E6%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C1%F3%FE%FB%E0%B2%F6%F7%FE%B2%FF%FD%F6%FD%B2%E2%F3%FC%E6%F3%FE%FE%F3%B2%F1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%DF%FD%E4%F7%DD%FC%F7%B0%A8%B0%C2%F3%E1%F3%E0%B0%BE%B0%FF%E1%F5%D3%E7%F6%FB%FD%B0%A8%B0%D3%E7%F6%FB%FD%B0%BE%B0%FF%E1%F5%D1%FD%E0%E0%F7%F1%E6%B0%A8%B0%D1%FD%E0%E0%F7%F1%E6%FD%B0%BE%B0%FF%E1%F5%DB%FC%F1%FD%E0%E0%F7%F1%E6%B0%A8%B0%DB%FC%F1%FD%E0%E0%F7%F1%E6%FD%B0%BE%B0%FF%E1%F5%C5%FA%FB%E6%F7%D0%FD%F3%E0%F6%B0%A8%B0%C2%FB%E8%F3%E0%E0%F3%B2%F6%FB%F5%FB%E6%F3%FE%B0%BE%B0%FF%E1%F5%D1%FE%FD%E1%F7%B0%A8%B0%D1%F7%E0%E0%F3%E0%B0%BE%B0%FF%E1%F5%C7%FC%F1%FD%FF%E2%FE%F7%E6%F7%F6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%F1%FD%FF%E2%FE%F7%E6%F3%F6%F3%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C7%FC%E1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%C0%FD%E1%F1%FD%B0%BE%B0%FF%E1%F5%C1%FA%FD%E5%C5%FD%E0%F6%E1%B0%A8%B0%DF%FD%E1%E6%E0%F3%E0%B2%FE%F3%E1%B2%E1%FD%FE%E7%F1%FB%FD%FC%F7%E1%B0%BE%B0%FF%E1%F5%D3%FE%FE%B0%A8%B0%C6%FD%F6%F3%E1%B0%BE%B0%FF%E1%F5%C7%FC%F3%FC%E1%E5%F7%E0%F7%F6%B0%A8%B0%C1%FB%FC%B2%F1%FD%FC%E6%F7%E1%E6%F3%E0%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%C5%F7%FB%F5%FA%E6%B0%A8%B0%C2%F7%E1%FD%B0%EF%EF</div><a href="#" class="js-hidden rosco-LinkImages">0</a><a href="#" class="js-hidden rosco-LinkImages">1</a><a href="#" class="js-hidden rosco-LinkImages">2</a><a href="#" class="js-hidden rosco-LinkImages">3</a><a href="#" class="js-hidden rosco-LinkImages">4</a><a href="#" class="js-hidden rosco-LinkImages">5</a><a href="#" class="js-hidden rosco-LinkImages">6</a><a href="#" class="js-hidden rosco-LinkImages">7</a><a href="#" class="js-hidden rosco-LinkImages">8</a><a href="#" class="js-hidden rosco-LinkImages">9</a><a href="#" class="js-hidden rosco-LinkImages">10</a><a href="#" class="js-hidden rosco-LinkImages">11</a><a href="#" class="js-hidden rosco-LinkImages">12</a><a href="#" class="js-hidden rosco-LinkImages">13</a><a href="#" class="js-hidden rosco-LinkImages">14</a><a href="#" class="js-hidden rosco-LinkImages">15</a><a href="#" class="js-hidden rosco-LinkImages">16</a><a href="#" class="js-hidden rosco-LinkImages">17</a><a href="#" class="js-hidden rosco-LinkImages">18</a><a href="#" class="js-hidden rosco-LinkImages">19</a><a href="#" class="js-hidden rosco-LinkImages">20</a><a href="#" class="js-hidden rosco-LinkImages">21</a><a href="#" class="js-hidden rosco-LinkImages">22</a><a href="#" class="js-hidden rosco-LinkImages">23</a><a href="#" class="js-hidden rosco-LinkImages">24</a><a href="#" class="js-hidden rosco-LinkImages">25</a><a href="#" class="js-hidden rosco-LinkImages">26</a><a href="#" class="js-hidden rosco-LinkAudios">0</a><a href="#" class="js-hidden rosco-LinkAudios">1</a><a href="#" class="js-hidden rosco-LinkAudios">2</a><a href="#" class="js-hidden rosco-LinkAudios">3</a><a href="#" class="js-hidden rosco-LinkAudios">4</a><a href="#" class="js-hidden rosco-LinkAudios">5</a><a href="#" class="js-hidden rosco-LinkAudios">6</a><a href="#" class="js-hidden rosco-LinkAudios">7</a><a href="#" class="js-hidden rosco-LinkAudios">8</a><a href="#" class="js-hidden rosco-LinkAudios">9</a><a href="#" class="js-hidden rosco-LinkAudios">10</a><a href="#" class="js-hidden rosco-LinkAudios">11</a><a href="#" class="js-hidden rosco-LinkAudios">12</a><a href="#" class="js-hidden rosco-LinkAudios">13</a><a href="#" class="js-hidden rosco-LinkAudios">14</a><a href="#" class="js-hidden rosco-LinkAudios">15</a><a href="#" class="js-hidden rosco-LinkAudios">16</a><a href="#" class="js-hidden rosco-LinkAudios">17</a><a href="#" class="js-hidden rosco-LinkAudios">18</a><a href="#" class="js-hidden rosco-LinkAudios">19</a><a href="#" class="js-hidden rosco-LinkAudios">20</a><a href="#" class="js-hidden rosco-LinkAudios">21</a><a href="#" class="js-hidden rosco-LinkAudios">22</a><a href="#" class="js-hidden rosco-LinkAudios">23</a><a href="#" class="js-hidden rosco-LinkAudios">24</a><a href="#" class="js-hidden rosco-LinkAudios">25</a><a href="#" class="js-hidden rosco-LinkAudios">26</a><div class="rosco-bns js-hidden">Your browser is not compatible with this tool.</div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"typeGame":"Rosco","instructions":"<p>Observe las letras, identifique y rellene las palabras que faltan.</p>","timeShowSolution":5,"durationGame":240,"numberTurns":2,"showSolution":true,"showMinimize":false,"itinerary":{"showClue":false,"clueGame":"","percentageClue":40,"showCodeAccess":false,"codeAccess":"","messageCodeAccess":""},"wordsGame":[{"letter":"A","word":"Arco","definition":"Proceso de unión de metales mediante arco eléctrico.","type":0,"alt":"","author":"","url":"","audio":"","x":0,"y":0},{"letter":"B","word":"Barrera / Bisel","definition":"Elemento de protección ocular contra radiación.","type":0,"alt":"","author":"","url":"","audio":"","x":0,"y":0},{"letter":"C","word":"Cartilla / Código","definition":"Documento que recoge normas de prevención en el taller.","type":0,"alt":"","author":"","url":"","audio":"","x":0,"y":0},{"letter":"D","word":"Deposición","definition":"Técnica de unión de metales con calor y aporte de material.","type":0,"alt":"","author":"","url":"","audio":"","x":0,"y":0},{"letter":"E","word":"Extractor","definition":"Equipo que protege al soldador de humos y gases.","type":0,"alt":"","author":"","url":"","audio":"","x":0,"y":0},{"letter":"F","word":"Fisura","definition":"Defecto típico en soldadura por falta de fusión.","type":0,"alt":"","author":"","url":"","audio":"","x":0,"y":0},{"letter":"G","word":"Guantes","definition":"Elemento de protección de manos.","type":0,"alt":"","author":"","url":"","audio":"","x":0,"y":0},{"letter":"H","word":"Hilo","definition":"Herramienta para trazar líneas rectas que se usa impregnada en tiza","type":0,"alt":"","author":"","url":"","audio":"","x":0,"y":0},{"letter":"I","word":"ISO","definition":"Norma que regula la seguridad en el trabajo.","type":0,"alt":"","author":"","url":"","audio":"","x":0,"y":0},{"letter":"J","word":"Junta","definition":"Unión de dos piezas metálicas.","type":0,"alt":"","author":"","url":"","audio":"","x":0,"y":0},{"letter":"K","word":"","definition":"","type":1,"alt":"","author":"","url":"","audio":"","x":0,"y":0},{"letter":"L","word":"Ley","definition":"Documento que regula la prevención de riesgos laborales en España.","type":0,"alt":"","author":"","url":"","audio":"","x":0,"y":0},{"letter":"M","word":"MIG","definition":"Proceso de soldadura con hilo continuo y gas protector.","type":0,"alt":"","author":"","url":"","audio":"","x":0,"y":0},{"letter":"N","word":"UNE","definition":"Norma relacionada con seguridad europea","type":1,"alt":"","author":"","url":"","audio":"","x":0,"y":0},{"letter":"Ñ","word":"","definition":"","type":0,"alt":"","author":"","url":"","audio":"","x":0,"y":0},{"letter":"O","word":"Sobreespesor","definition":"Defecto por exceso de material en la soldadura.","type":1,"alt":"","author":"","url":"","audio":"","x":0,"y":0},{"letter":"P","word":"Pantalla","definition":"Equipo de protección individual básico en soldadura.","type":0,"alt":"","author":"","url":"","audio":"","x":0,"y":0},{"letter":"Q","word":"Químico","definition":"Riesgo asociado a la inhalación de humos metálicos.","type":0,"alt":"","author":"","url":"","audio":"","x":0,"y":0},{"letter":"R","word":"Remache","definition":"Técnica de unión mediante presión y calor.","type":0,"alt":"","author":"","url":"","audio":"","x":0,"y":0},{"letter":"S","word":"Seguridad","definition":"Concepto básico en prevención de riesgos laborales.","type":0,"alt":"","author":"","url":"","audio":"","x":0,"y":0},{"letter":"T","word":"Termocorte","definition":"Proceso de corte de metales con gas y calor.","type":0,"alt":"","author":"","url":"","audio":"","x":0,"y":0},{"letter":"U","word":"Unión en U","definition":"Tipo de junta en forma de canal.","type":0,"alt":"","author":"","url":"","audio":"","x":0,"y":0},{"letter":"V","word":"Vista","definition":"Representación frontal de una pieza.","type":0,"alt":"","author":"","url":"","audio":"","x":0,"y":0},{"letter":"W","word":"","definition":"","type":0,"alt":"","author":"","url":"","audio":"","x":0,"y":0},{"letter":"X","word":"","definition":"","type":0,"alt":"","author":"","url":"","audio":"","x":0,"y":0},{"letter":"Y","word":"","definition":"","type":0,"alt":"","author":"","url":"","audio":"","x":0,"y":0},{"letter":"Z","word":"ZAC (Zona Afectada por el Calor)","definition":"Zona afectada por el calor en la soldadura.","type":0,"alt":"","author":"","url":"","audio":"","x":0,"y":0}],"isScorm":0,"textButtonScorm":"Guardar la puntuación","repeatActivity":false,"letters":"ABCDEFGHIJKLMNÑOPQRSTUVWXYZ","textAfter":"","caseSensitive":false,"version":2,"modeBoard":true,"evaluation":false,"evaluationID":"","id":"20251116194027-60","msgs":{"msgReady":"¿Preparado?","msgStartGame":"Pulse aquí para empezar","msgHappen":"Pasar","msgReply":"Responder","msgSubmit":"Enviar","msgEnterCode":"Introduzca el código de acceso","msgErrorCode":"El código de acceso no es correcto","msgGameOver":"¡Fin de la partida!","msgNewWord":"Palabra nueva","msgStartWith":"Empieza por %1","msgContaint":"Contiene la letra %1","msgPass":"Pasar a la siguiente palabra","msgIndicateWord":"Introduzca una palabra","msgClue":"¡Genial! La pista es:","msgNewGame":"Pulse aquí para empezar otra partida","msgYouHas":"Tiene %1 aciertos y %2 fallos","msgCodeAccess":"Código de acceso","msgPlayAgain":"Jugar otra vez","msgRequiredAccessKey":"Es necesario el código de acceso","msgInformationLooking":"La información que estaba buscando","msgPlayStart":"Pulse aquí para jugar","msgMinimize":"Minimizar","msgMaximize":"Maximizar","msgHits":"Aciertos","msgErrors":"Errores","msgTime":"Límite de tiempo (mm:ss)","msgOneRound":"Una vuelta","msgTowRounds":"Dos vueltas","msgImage":"Imagen","msgNoImage":"Sin imágenes","msgWrote":"Escriba la palabra correcta y pulse en Responder. Si duda, pulse en Seguir.","msgNotNetwork":"A este juego sólo se puede jugar con conexión a internet.","msgSuccesses":"¡Correcto! | ¡Excelente! | ¡Genial! | ¡Muy bien! | ¡Perfecto!","msgFailures":"¡No era eso! | ¡Incorrecto! | ¡No es correcto! | ¡Lo sentimos! | ¡Error!","msgEndGameScore":"Antes de guardar la puntuación comience la partida.","msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgShowRoulette":"Mostrar el rosco de palabras","msgHideRoulette":"Ocultar el rosco de palabras","msgQuestion":"Pregunta","msgAnswer":"Responder","msgOnlySaveScore":"¡Sólo puede guardar la puntuación una vez!","msgOnlySave":"Sólo puede guardar una vez","msgInformation":"Información","msgYouScore":"Su puntuación","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Sólo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgAuthor":"Autoría","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgYouLastScore":"La última puntuación guardada es","msgActityComply":"Ya ha realizado esta actividad.","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgFullScreen":"Pantalla Completa","msgExitFullScreen":"Salir del modo pantalla completa","msgMoveOne":"Pasar","msgAudio":"Audio","msgCorrect":"Correcto","msgIncorrect":"Incorrecto","msgWhiteBoard":"Pizarra digital","msgClose":"Cerrar","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgTypeGame":"Rosco","msgShowWords":"Mostrar las soluciones","msgAll":"Todas","msgUnanswered":"Sin contestar"}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mo8qynl3-4el59x5tl</odePageId>
+      <odeBlockId>block-mo8qynl4-xyen6vfuw</odeBlockId>
+      <blockName>Escape Room Digital: “Sal del problema”</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo8qynl3-4el59x5tl</odePageId>
+          <odeBlockId>block-mo8qynl4-xyen6vfuw</odeBlockId>
+          <odeIdeviceId>idevice-mo8qynl4-3nbz5pv15</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Objetivo: Identificar problemas de viaje y aplicar soluciones para “salir” de la agencia virtual.</p>
+<p>Cómo funciona:</p>
+<p>Se crea un escape room interactivo con Genially o Canva.<br />El alumnado se divide en equipos y recibe un escenario: una agencia de viajes con varias zonas (aeropuerto, hotel, excursiones).</p>
+<p>Cada zona tiene pruebas:</p>
+<p>Pregunta tipo reto: ¿Qué documento falta en esta imagen? (ej. pasaporte, tarjeta de embarque, visado).<br />Mini-cálculo: ¿Cuánto dinero te queda si pagas el hotel y luego las excursiones con un presupuesto de 500€?<br />Decisión crítica: ¿Qué harías si pierdes tu maleta al llegar al destino?<br />Cada respuesta correcta desbloquea una pista para “salir” de la agencia.</p>
+<p>Competencias trabajadas: competencia comunicativa, competencia digital.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mo8qynl4-3nbz5pv15","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<p>Objetivo: Identificar problemas de viaje y aplicar soluciones para “salir” de la agencia virtual.</p>\n<p>Cómo funciona:</p>\n<p>Se crea un escape room interactivo con Genially o Canva.<br />El alumnado se divide en equipos y recibe un escenario: una agencia de viajes con varias zonas (aeropuerto, hotel, excursiones).</p>\n<p>Cada zona tiene pruebas:</p>\n<p>Pregunta tipo reto: ¿Qué documento falta en esta imagen? (ej. pasaporte, tarjeta de embarque, visado).<br />Mini-cálculo: ¿Cuánto dinero te queda si pagas el hotel y luego las excursiones con un presupuesto de 500€?<br />Decisión crítica: ¿Qué harías si pierdes tu maleta al llegar al destino?<br />Cada respuesta correcta desbloquea una pista para “salir” de la agencia.</p>\n<p>Competencias trabajadas: competencia comunicativa, competencia digital.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mo8qynl3-4el59x5tl</odePageId>
+      <odeBlockId>block-mo8qynl4-42vvd1her</odeBlockId>
+      <blockName>Juego de Rol: “Inspector de Seguridad”</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo8qynl3-4el59x5tl</odePageId>
+          <odeBlockId>block-mo8qynl4-42vvd1her</odeBlockId>
+          <odeIdeviceId>idevice-mo8qynl4-wizxcr1g9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Objetivo: Desarrollar la comunicación en situaciones reales.</p>
+<p>Cómo funciona:</p>
+<p>Se forman grupos: Viajeros, Agentes de viaje, Responsables de emergencias.<br />Se plantea un caso práctico: excursión de un día a una ciudad desconocida con transporte, comida y visitas.</p>
+<p>Los agentes de viaje deben recorrer el "destino" (puede ser el aula con imágenes o fichas) y detectar fallos (horario mal calculado, documentación olvidada, ropa inadecuada para el clima).<br />Los viajeros justifican sus decisiones (ej. "llevamos paraguas porque lloverá") y los responsables de emergencias proponen soluciones (ej. "si nos perdemos, usamos el móvil o preguntamos en inglés").</p>
+<p>Al final, se hace una puesta en común y se elabora una lista de buenas prácticas para viajar.</p>
+<p>Competencias trabajadas: comunicación, Competencia en conciencia y expresión culturales.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mo8qynl4-wizxcr1g9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Objetivo: Desarrollar la comunicación en situaciones reales.</p>\n<p>Cómo funciona:</p>\n<p>Se forman grupos: Viajeros, Agentes de viaje, Responsables de emergencias.<br />Se plantea un caso práctico: excursión de un día a una ciudad desconocida con transporte, comida y visitas.</p>\n<p>Los agentes de viaje deben recorrer el \"destino\" (puede ser el aula con imágenes o fichas) y detectar fallos (horario mal calculado, documentación olvidada, ropa inadecuada para el clima).<br />Los viajeros justifican sus decisiones (ej. \"llevamos paraguas porque lloverá\") y los responsables de emergencias proponen soluciones (ej. \"si nos perdemos, usamos el móvil o preguntamos en inglés\").</p>\n<p>Al final, se hace una puesta en común y se elabora una lista de buenas prácticas para viajar.</p>\n<p>Competencias trabajadas: comunicación, Competencia en conciencia y expresión culturales.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>2</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo8qynl3-1eq3x6y9l</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>3. Evaluación e instrumentos</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Evaluación e instrumentos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo8qynl3-1eq3x6y9l</odePageId>
+      <odeBlockId>block-mo8qynl4-coweefvw6</odeBlockId>
+      <blockName>GUION DE LA ACTIVIDAD: “Diseñando Seguridad en el Taller”</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo8qynl3-1eq3x6y9l</odePageId>
+          <odeBlockId>block-mo8qynl4-coweefvw6</odeBlockId>
+          <odeIdeviceId>idevice-mo8qynl4-s6pcw066u</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Objetivo general<br />Aprender a identificar problemas en la planificación de un viaje de ensueño, aplicar soluciones prácticas a problemas a través del uso del inglés y comunicar la importancia de una buena organización mediante recursos digitales y dinámicas colaborativas en inglés.</p>
+<p> <br />FASE 1: Introducción (30 min)<br />Instrucciones para el alumnado:</p>
+<p>El profesor explicará la importancia de planificar bien un viaje (documentación, presupuesto, seguridad, imprevistos) y presentará parte del vocabulario y expresiones a utilizar junto con el repaso de las del año anterior (es una ampliación).<br />Visualizaremos ejemplos reales de problemas en viajes (pérdida de maleta, overbooking, retrasos) y analizaremos qué soluciones los habrían evitado.<br />Formaremos equipos de 3-4 personas.<br />Cada equipo elegirá un rol para la siguiente fase (Viajero, Agente de viajes, Responsable de emergencias).<br /> <br />FASE 2: Juego 1 – Escape Room Digital (45 min)<br />Objetivo: Resolver pruebas para “escapar” de la agencia virtual aplicando normas de organización y seguridad en viajes.</p>
+<p>Instrucciones:</p>
+<p>Accede al enlace del Escape Room (Genially/Canva).<br />Cada equipo debe superar 5 pruebas: Diseñamos una actividad sencilla que trabaje vocabulario de viaje junto con otras disciplinas.</p>
+<p>Identificación visual: Señala el documento que falta en esta imagen (ej. pasaporte, tarjeta de embarque, visado).<br />Pregunta rápida: ¿Qué norma se aplica para no perder el vuelo? (ej. llegar 2 horas antes).<br />Cálculo sencillo: ¿Cuánto dinero te queda si tienes 300€ y pagas el hotel (150€) y una excursión (80€)?<br />Decisión crítica: ¿Qué harías si pierdes tu maleta al llegar al destino?<br />Orden lógico: Coloca los pasos correctos para facturar una maleta en el aeropuerto.<br />Cada respuesta correcta desbloquea una pista para salir de la agencia.<br />El equipo que complete todas las pruebas primero obtiene un bonus en la evaluación.<br /> <br />FASE 3: Juego 2 – Rol “Inspector de Viajes” (45 min)<br />Objetivo: Simular una inspección en un itinerario de viaje y aplicar medidas correctivas.</p>
+<p>Instrucciones:</p>
+<p>El aula se divide en zonas que simulan partes de un viaje (aeropuerto, hotel, excursiones, transporte).<br />Los Viajeros recorren las zonas y anotan problemas detectados (horario mal calculado, ropa inadecuada, documentación olvidada, falta de presupuesto).<br />Los Agentes de viaje justifican sus acciones (ej. "recomendamos este hotel porque está cerca del centro").<br />Los Responsables de emergencias proponen soluciones (ej. "si llueve, cambiamos la excursión de playa a un museo").<br />Al final, cada equipo elabora una lista de buenas prácticas para viajar y la comparte en una puesta en común (en inglés básico).<br /> <br />FASE 4: Creación de productos digitales (Sesiones 3 y 4)<br />Instrucciones:</p>
+<p>Cada equipo diseña una infografía interactiva con Canva o Genially que muestre:</p>
+<p>Problemas detectados en el viaje.<br />Soluciones prácticas.<br />Consejos útiles (en inglés: "Always check your passport", "Arrive early at the airport").<br />Graba un podcast o vídeo (en inglés sencillo) explicando:</p>
+<p>El caso práctico de su viaje de ensueño.<br />Cómo aplicar una buena planificación.<br />Por qué es esencial organizar bien un viaje.<br />Usa herramientas de edición (Audacity, Clipchamp, Canva) y recursos libres de derechos.<br />Entrega los productos en la plataforma indicada por el profesor.</p>
+<p><br /><br /><strong>Evaluación</strong><br />Escape Room: 20% .<br />Juego de Rol: 20% .<br />Infografía: 30% .<br />Podcast/Vídeo: 30% .</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mo8qynl4-s6pcw066u","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<p>Objetivo general<br />Aprender a identificar problemas en la planificación de un viaje de ensueño, aplicar soluciones prácticas a problemas a través del uso del inglés y comunicar la importancia de una buena organización mediante recursos digitales y dinámicas colaborativas en inglés.</p>\n<p> <br />FASE 1: Introducción (30 min)<br />Instrucciones para el alumnado:</p>\n<p>El profesor explicará la importancia de planificar bien un viaje (documentación, presupuesto, seguridad, imprevistos) y presentará parte del vocabulario y expresiones a utilizar junto con el repaso de las del año anterior (es una ampliación).<br />Visualizaremos ejemplos reales de problemas en viajes (pérdida de maleta, overbooking, retrasos) y analizaremos qué soluciones los habrían evitado.<br />Formaremos equipos de 3-4 personas.<br />Cada equipo elegirá un rol para la siguiente fase (Viajero, Agente de viajes, Responsable de emergencias).<br /> <br />FASE 2: Juego 1 – Escape Room Digital (45 min)<br />Objetivo: Resolver pruebas para “escapar” de la agencia virtual aplicando normas de organización y seguridad en viajes.</p>\n<p>Instrucciones:</p>\n<p>Accede al enlace del Escape Room (Genially/Canva).<br />Cada equipo debe superar 5 pruebas: Diseñamos una actividad sencilla que trabaje vocabulario de viaje junto con otras disciplinas.</p>\n<p>Identificación visual: Señala el documento que falta en esta imagen (ej. pasaporte, tarjeta de embarque, visado).<br />Pregunta rápida: ¿Qué norma se aplica para no perder el vuelo? (ej. llegar 2 horas antes).<br />Cálculo sencillo: ¿Cuánto dinero te queda si tienes 300€ y pagas el hotel (150€) y una excursión (80€)?<br />Decisión crítica: ¿Qué harías si pierdes tu maleta al llegar al destino?<br />Orden lógico: Coloca los pasos correctos para facturar una maleta en el aeropuerto.<br />Cada respuesta correcta desbloquea una pista para salir de la agencia.<br />El equipo que complete todas las pruebas primero obtiene un bonus en la evaluación.<br /> <br />FASE 3: Juego 2 – Rol “Inspector de Viajes” (45 min)<br />Objetivo: Simular una inspección en un itinerario de viaje y aplicar medidas correctivas.</p>\n<p>Instrucciones:</p>\n<p>El aula se divide en zonas que simulan partes de un viaje (aeropuerto, hotel, excursiones, transporte).<br />Los Viajeros recorren las zonas y anotan problemas detectados (horario mal calculado, ropa inadecuada, documentación olvidada, falta de presupuesto).<br />Los Agentes de viaje justifican sus acciones (ej. \"recomendamos este hotel porque está cerca del centro\").<br />Los Responsables de emergencias proponen soluciones (ej. \"si llueve, cambiamos la excursión de playa a un museo\").<br />Al final, cada equipo elabora una lista de buenas prácticas para viajar y la comparte en una puesta en común (en inglés básico).<br /> <br />FASE 4: Creación de productos digitales (Sesiones 3 y 4)<br />Instrucciones:</p>\n<p>Cada equipo diseña una infografía interactiva con Canva o Genially que muestre:</p>\n<p>Problemas detectados en el viaje.<br />Soluciones prácticas.<br />Consejos útiles (en inglés: \"Always check your passport\", \"Arrive early at the airport\").<br />Graba un podcast o vídeo (en inglés sencillo) explicando:</p>\n<p>El caso práctico de su viaje de ensueño.<br />Cómo aplicar una buena planificación.<br />Por qué es esencial organizar bien un viaje.<br />Usa herramientas de edición (Audacity, Clipchamp, Canva) y recursos libres de derechos.<br />Entrega los productos en la plataforma indicada por el profesor.</p>\n<p><br /><br /><strong>Evaluación</strong><br />Escape Room: 20% .<br />Juego de Rol: 20% .<br />Infografía: 30% .<br />Podcast/Vídeo: 30% .</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mo8qynl3-1eq3x6y9l</odePageId>
+      <odeBlockId>block-mo8qynl4-mgi7h5ih0</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo8qynl3-1eq3x6y9l</odePageId>
+          <odeBlockId>block-mo8qynl4-mgi7h5ih0</odeBlockId>
+          <odeIdeviceId>idevice-mo8qynl4-79klz77hb</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><span style="color: #000000;">La evaluación se realizará al final de la SA y el instrumento que se utilizará será la rúbrica, una para <span style="font-size: 1.05em;"><span style="font-size: 12pt;">la infografía, otra para el podcast y otra para el vídeo, presentadas desde el inicio.</span></span></span><span style="color: #ff0000;"></span></p>
+<p></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p><span style=\"color: #000000;\">La evaluación se realizará al final de la SA y el instrumento que se utilizará será la rúbrica, una para <span style=\"font-size: 1.05em;\"><span style=\"font-size: 12pt;\">la infografía, otra para el podcast y otra para el vídeo, presentadas desde el inicio.</span></span></span><span style=\"color: #ff0000;\"></span></p>\n<p></p>"}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mo8qynl3-1eq3x6y9l</odePageId>
+      <odeBlockId>block-mo8qynl4-0025ucrfc</odeBlockId>
+      <blockName>Rubric</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo8qynl3-1eq3x6y9l</odePageId>
+          <odeBlockId>block-mo8qynl4-0025ucrfc</odeBlockId>
+          <odeIdeviceId>idevice-mo8qynl4-2q7aougzb</odeIdeviceId>
+          <odeIdeviceTypeName>rubric</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="rubric"><div class="exe-rubrics-DataGame js-hidden">%7B%22title%22%3A%22R%FAbrica%20para%20evaluar%20la%20elaboraci%F3n%20de%20un%20v%EDdeo%22%2C%22categories%22%3A%5B%22Contenido%22%2C%22Informaci%F3n%22%2C%22Grabaci%F3n%20y%20edici%F3n%20del%20v%EDdeo%22%2C%22Participaci%F3n%20en%20el%20trabajo%20en%20equipo%22%5D%2C%22scores%22%3A%5B%224%20Excelente%22%2C%223%20Satisfactorio%22%2C%222%20Mejorable%22%2C%221%20Insuficiente%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22text%22%3A%22Se%20observa%20buen%20dominio%20del%20contenido.%22%2C%22weight%22%3A%224%22%7D%2C%7B%22text%22%3A%22Se%20observan%20algunos%20problemas%20en%20el%20dominio%20del%20contenido.%22%2C%22weight%22%3A%223%22%7D%2C%7B%22text%22%3A%22Hay%20bastante%20confusi%F3n%20en%20el%20dominio%20del%20contenido.%22%2C%22weight%22%3A%222%22%7D%2C%7B%22text%22%3A%22No%20presenta%20dominio%20del%20contenido.%22%2C%22weight%22%3A%221%22%7D%5D%2C%5B%7B%22text%22%3A%22La%20informaci%F3n%20es%20clara%20y%20precisa.%22%2C%22weight%22%3A%224%22%7D%2C%7B%22text%22%3A%22La%20informaci%F3n%20es%20bastante%20clara%20y%20precisa.%22%2C%22weight%22%3A%223%22%7D%2C%7B%22text%22%3A%22La%20informaci%F3n%20es%20ambigua.%22%2C%22weight%22%3A%222%22%7D%2C%7B%22text%22%3A%22La%20informaci%F3n%20es%20transmitida%20ausente%20de%20claridad.%22%2C%22weight%22%3A%221%22%7D%5D%2C%5B%7B%22text%22%3A%22La%20calidad%20del%20v%EDdeo%20es%20excelente%20en%20todas%20sus%20partes.%22%2C%22weight%22%3A%224%22%7D%2C%7B%22text%22%3A%22La%20calidad%20del%20v%EDdeo%20es%20buena%20en%20casi%20todas%20sus%20partes.%22%2C%22weight%22%3A%223%22%7D%2C%7B%22text%22%3A%22La%20calidad%20del%20v%EDdeo%20es%20mejorable%20.%22%2C%22weight%22%3A%222%22%7D%2C%7B%22text%22%3A%22La%20calidad%20del%20v%EDdeo%20no%20es%20muy%20buena.%22%2C%22weight%22%3A%221%22%7D%5D%2C%5B%7B%22text%22%3A%22Participa%20activamente%20en%20el%20equipo.%22%2C%22weight%22%3A%224%22%7D%2C%7B%22text%22%3A%22Participa%20bastante%20en%20el%20equipo.%22%2C%22weight%22%3A%223%22%7D%2C%7B%22text%22%3A%22Participa%20por%20lo%20general%20en%20el%20equipo.%22%2C%22weight%22%3A%222%22%7D%2C%7B%22text%22%3A%22Participa%20poco%20en%20el%20equipo.%22%2C%22weight%22%3A%221%22%7D%5D%5D%2C%22i18n%22%3A%7B%22activity%22%3A%22Actividad%22%2C%22name%22%3A%22Nombre%22%2C%22date%22%3A%22Fecha%22%2C%22score%22%3A%22Puntuaci%F3n%22%2C%22notes%22%3A%22Notas%22%2C%22reset%22%3A%22Reiniciar%22%2C%22print%22%3A%22Imprimir%22%2C%22apply%22%3A%22Aplicar%22%2C%22newWindow%22%3A%22Ventana%20nueva%22%7D%7D</div><p class="exe-rubrics-authorship"><a href="http://cedec.intef.es/" target="_blank" class="author" rel="noopener">CEDEC</a>. <span class="title"><em>Rúbrica para evaluar la elaboración de un vídeo</em></span> <span class="license">(<a href="http://creativecommons.org/licenses/" rel="license nofollow noopener" target="_blank" title="Creative Commons CC-BY-SA">CC BY-SA</a>)</span></p><ul class="exe-rubrics-strings"><li class="activity">Actividad</li><li class="name">Nombre</li><li class="date">Fecha</li><li class="score">Puntuación</li><li class="notes">Notas</li><li class="reset">Reiniciar</li><li class="print">Imprimir</li><li class="apply">Aplicar</li><li class="newWindow">Ventana nueva</li></ul><div class="exe-rubrics-wrapper"><div class="exe-rubrics-content"><div id="exe-rubrics-header"><div><label for="activity">Actividad:</label><input type="text" id="activity" data-rubric-field="activity" class="form-control form-control-sm"></div><div><label for="name">Nombre:</label><input type="text" id="name" data-rubric-field="name" class="form-control form-control-sm"></div><div><label for="score">Puntuación:</label><input type="text" id="score" data-rubric-field="score" class="form-control form-control-sm"></div><div><label for="date">Fecha:</label><input type="text" id="date" data-rubric-field="date" class="form-control form-control-sm" value="21/4/2026"></div></div><div class="exe-rubrics-table-slot"><table class="exe-table exe-rubrics-export-table" data-rubric-table-type="export"><caption>Rúbrica para evaluar la elaboración de un vídeo</caption><thead><tr><th>&nbsp;</th><th>4 Excelente</th><th>3 Satisfactorio</th><th>2 Mejorable</th><th>1 Insuficiente</th></tr></thead><tbody><tr><th>Contenido</th><td>Se observa buen dominio del contenido. <span>(4)</span></td><td>Se observan algunos problemas en el dominio del contenido. <span>(3)</span></td><td>Hay bastante confusión en el dominio del contenido. <span>(2)</span></td><td>No presenta dominio del contenido. <span>(1)</span></td></tr><tr><th>Información</th><td>La información es clara y precisa. <span>(4)</span></td><td>La información es bastante clara y precisa. <span>(3)</span></td><td>La información es ambigua. <span>(2)</span></td><td>La información es transmitida ausente de claridad. <span>(1)</span></td></tr><tr><th>Grabación y edición del vídeo</th><td>La calidad del vídeo es excelente en todas sus partes. <span>(4)</span></td><td>La calidad del vídeo es buena en casi todas sus partes. <span>(3)</span></td><td>La calidad del vídeo es mejorable . <span>(2)</span></td><td>La calidad del vídeo no es muy buena. <span>(1)</span></td></tr><tr><th>Participación en el trabajo en equipo</th><td>Participa activamente en el equipo. <span>(4)</span></td><td>Participa bastante en el equipo. <span>(3)</span></td><td>Participa por lo general en el equipo. <span>(2)</span></td><td>Participa poco en el equipo. <span>(1)</span></td></tr></tbody></table></div><div id="exe-rubrics-footer"><p><label for="notes">Notas:</label><textarea id="notes" data-rubric-field="notes" class="form-control form-control-sm" cols="32" rows="1"></textarea></p></div><p class="exe-rubrics-actions"><button type="button" class="exe-rubrics-download btn btn-primary btn-sm">Download</button><button type="button" class="exe-rubrics-reset btn btn-primary btn-sm">Reiniciar</button></p></div></div></div><div class="exe-rubrics-richtext-data sr-av"><span class="exe-rubrics-instructions-data"></span><span class="exe-rubrics-text-after-data"></span></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>2</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value>rubric</value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mo8qynl3-1eq3x6y9l</odePageId>
+      <odeBlockId>block-mo8qynl4-wvwi4d3vz</odeBlockId>
+      <blockName>Rubric</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo8qynl3-1eq3x6y9l</odePageId>
+          <odeBlockId>block-mo8qynl4-wvwi4d3vz</odeBlockId>
+          <odeIdeviceId>idevice-mo8qynl4-62po7h0nw</odeIdeviceId>
+          <odeIdeviceTypeName>rubric</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="rubric"><div class="exe-rubrics-DataGame js-hidden">%7B%22title%22%3A%22R%FAbrica%20para%20evaluar%20una%20infograf%EDa%22%2C%22categories%22%3A%5B%22Dise%F1o%22%2C%22Contenido%22%2C%22Elementos%20visuales%22%2C%22Correcci%F3n%20ling%FC%EDstica%22%5D%2C%22scores%22%3A%5B%224%20Excelente%22%2C%223%20Satisfactorio%22%2C%222%20Mejorable%22%2C%221%20Insuficiente%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22text%22%3A%22La%20informaci%F3n%20visualmente%20es%20atractiva%2C%20arm%F3nica%20y%20la%20tipograf%EDa%20es%20legible%20y%20apropiada.%22%2C%22weight%22%3A%224%22%7D%2C%7B%22text%22%3A%22La%20informaci%F3n%20visualmente%20es%20bastante%20atractiva%2C%20arm%F3nica%20y/o%20la%20tipograf%EDa%20es%20bastante%20apropiada.%22%2C%22weight%22%3A%223%22%7D%2C%7B%22text%22%3A%22La%20informaci%F3n%20visualmente%20es%20poco%20atractiva%2C%20arm%F3nica%20y/o%20la%20tipograf%EDa%20no%20es%20la%20m%E1s%20apropiada.%22%2C%22weight%22%3A%222%22%7D%2C%7B%22text%22%3A%22La%20informaci%F3n%20visualmente%20no%20es%20atractiva%2C%20arm%F3nica%20y/o%20la%20tipograf%EDa%20es%20inapropiada.%22%2C%22weight%22%3A%221%22%7D%5D%2C%5B%7B%22text%22%3A%22Mensaje%20claro%2C%20datos%20relevantes%20y%20bien%20estructurados%22%2C%22weight%22%3A%224%22%7D%2C%7B%22text%22%3A%22Contenido%20claro%2C%20aunque%20con%20mejora%20posible%22%2C%22weight%22%3A%223%22%7D%2C%7B%22text%22%3A%22Contenido%20simple%20o%20poco%20estructurado%22%2C%22weight%22%3A%222%22%7D%2C%7B%22text%22%3A%22Informaci%F3n%20confusa%20o%20irrelevante%22%2C%22weight%22%3A%221%22%7D%5D%2C%5B%7B%22text%22%3A%22Recursos%20libres%20y%20bien%20citados%22%2C%22weight%22%3A%224%22%7D%2C%7B%22text%22%3A%22Uso%20adecuado%20con%20peque%F1os%20fallos%22%2C%22weight%22%3A%223%22%7D%2C%7B%22text%22%3A%22Uso%20dudoso%20de%20licencias%22%2C%22weight%22%3A%222%22%7D%2C%7B%22text%22%3A%22Uso%20indebido%20o%20no%20citado%22%2C%22weight%22%3A%221%22%7D%5D%2C%5B%7B%22text%22%3A%22No%20se%20aprecian%20errores%20ortogr%E1ficos.%22%2C%22weight%22%3A%224%22%7D%2C%7B%22text%22%3A%22Aparecen%20uno%20o%20dos%20errores%20ortogr%E1ficos.%22%2C%22weight%22%3A%223%22%7D%2C%7B%22text%22%3A%22Aparecen%20tres%20o%20cuatro%20errores%20ortogr%E1ficos.%22%2C%22weight%22%3A%222%22%7D%2C%7B%22text%22%3A%22Aparecen%20cinco%20o%20m%E1s%20errores%20ortogr%E1ficos.%22%2C%22weight%22%3A%221%22%7D%5D%5D%2C%22i18n%22%3A%7B%22activity%22%3A%22Actividad%22%2C%22name%22%3A%22Nombre%22%2C%22date%22%3A%22Fecha%22%2C%22score%22%3A%22Puntuaci%F3n%22%2C%22notes%22%3A%22Notas%22%2C%22reset%22%3A%22Reiniciar%22%2C%22print%22%3A%22Imprimir%22%2C%22apply%22%3A%22Aplicar%22%2C%22newWindow%22%3A%22Ventana%20nueva%22%7D%7D</div><p class="exe-rubrics-authorship"><a href="http://cedec.intef.es/" target="_blank" class="author" rel="noopener">CEDEC</a>. <span class="title"><em>Rúbrica para evaluar una infografía</em></span> <span class="license">(<a href="http://creativecommons.org/licenses/" rel="license nofollow noopener" target="_blank" title="Creative Commons CC-BY-SA">CC BY-SA</a>)</span></p><ul class="exe-rubrics-strings"><li class="activity">Actividad</li><li class="name">Nombre</li><li class="date">Fecha</li><li class="score">Puntuación</li><li class="notes">Notas</li><li class="reset">Reiniciar</li><li class="print">Imprimir</li><li class="apply">Aplicar</li><li class="newWindow">Ventana nueva</li></ul><div class="exe-rubrics-wrapper"><div class="exe-rubrics-content"><div id="exe-rubrics-header"><div><label for="activity">Actividad:</label><input type="text" id="activity" data-rubric-field="activity" class="form-control form-control-sm"></div><div><label for="name">Nombre:</label><input type="text" id="name" data-rubric-field="name" class="form-control form-control-sm"></div><div><label for="score">Puntuación:</label><input type="text" id="score" data-rubric-field="score" class="form-control form-control-sm"></div><div><label for="date">Fecha:</label><input type="text" id="date" data-rubric-field="date" class="form-control form-control-sm" value="21/4/2026"></div></div><div class="exe-rubrics-table-slot"><table class="exe-table exe-rubrics-export-table" data-rubric-table-type="export"><caption>Rúbrica para evaluar una infografía</caption><thead><tr><th>&nbsp;</th><th>4 Excelente</th><th>3 Satisfactorio</th><th>2 Mejorable</th><th>1 Insuficiente</th></tr></thead><tbody><tr><th>Diseño</th><td>La información visualmente es atractiva, armónica y la tipografía es legible y apropiada. <span>(4)</span></td><td>La información visualmente es bastante atractiva, armónica y/o la tipografía es bastante apropiada. <span>(3)</span></td><td>La información visualmente es poco atractiva, armónica y/o la tipografía no es la más apropiada. <span>(2)</span></td><td>La información visualmente no es atractiva, armónica y/o la tipografía es inapropiada. <span>(1)</span></td></tr><tr><th>Contenido</th><td>Mensaje claro, datos relevantes y bien estructurados <span>(4)</span></td><td>Contenido claro, aunque con mejora posible <span>(3)</span></td><td>Contenido simple o poco estructurado <span>(2)</span></td><td>Información confusa o irrelevante <span>(1)</span></td></tr><tr><th>Elementos visuales</th><td>Recursos libres y bien citados <span>(4)</span></td><td>Uso adecuado con pequeños fallos <span>(3)</span></td><td>Uso dudoso de licencias <span>(2)</span></td><td>Uso indebido o no citado <span>(1)</span></td></tr><tr><th>Corrección lingüística</th><td>No se aprecian errores ortográficos. <span>(4)</span></td><td>Aparecen uno o dos errores ortográficos. <span>(3)</span></td><td>Aparecen tres o cuatro errores ortográficos. <span>(2)</span></td><td>Aparecen cinco o más errores ortográficos. <span>(1)</span></td></tr></tbody></table></div><div id="exe-rubrics-footer"><p><label for="notes">Notas:</label><textarea id="notes" data-rubric-field="notes" class="form-control form-control-sm" cols="32" rows="1"></textarea></p></div><p class="exe-rubrics-actions"><button type="button" class="exe-rubrics-download btn btn-primary btn-sm">Download</button><button type="button" class="exe-rubrics-reset btn btn-primary btn-sm">Reiniciar</button></p></div></div></div><div class="exe-rubrics-richtext-data sr-av"><span class="exe-rubrics-instructions-data"></span><span class="exe-rubrics-text-after-data"></span></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>3</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value>rubric</value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mo8qynl3-1eq3x6y9l</odePageId>
+      <odeBlockId>block-mo8qynl4-mfng6mtt1</odeBlockId>
+      <blockName>Rubric</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>4</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo8qynl3-1eq3x6y9l</odePageId>
+          <odeBlockId>block-mo8qynl4-mfng6mtt1</odeBlockId>
+          <odeIdeviceId>idevice-mo8qynl4-hl6vhh42c</odeIdeviceId>
+          <odeIdeviceTypeName>rubric</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="rubric"><div class="exe-rubrics-DataGame js-hidden">%7B%22title%22%3A%22R%FAbrica%20para%20evaluar%20un%20p%F3dcast%22%2C%22categories%22%3A%5B%22Contenido%22%2C%22Manejo%20de%20las%20herramientas%20digitales%20de%20grabaci%F3n%20de%20audio%22%2C%22Estructura%22%2C%22Participaci%F3n%20en%20el%20trabajo%20en%20equipo%22%5D%2C%22scores%22%3A%5B%224%20Excelente%22%2C%223%20Satisfactorio%22%2C%222%20Mejorable%22%2C%221%20Insuficiente%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22text%22%3A%22Se%20observa%20buen%20dominio%20del%20contenido.%22%2C%22weight%22%3A%224%22%7D%2C%7B%22text%22%3A%22Se%20observan%20algunos%20problemas%20en%20el%20dominio%20del%20contenido.%22%2C%22weight%22%3A%223%22%7D%2C%7B%22text%22%3A%22Hay%20bastante%20confusi%F3n%20en%20el%20dominio%20del%20contenido.%22%2C%22weight%22%3A%222%22%7D%2C%7B%22text%22%3A%22No%20presenta%20dominio%20del%20contenido.%22%2C%22weight%22%3A%221%22%7D%5D%2C%5B%7B%22text%22%3A%22Usa%20las%20herramientas%20digitales%20sin%20ning%FAn%20problema.%22%2C%22weight%22%3A%224%22%7D%2C%7B%22text%22%3A%22Usa%20las%20herramientas%20digitales%20sin%20grandes%20problemas.%22%2C%22weight%22%3A%223%22%7D%2C%7B%22text%22%3A%22Usa%20las%20herramientas%20digitales%20con%20ayuda.%22%2C%22weight%22%3A%222%22%7D%2C%7B%22text%22%3A%22Tiene%20bastantes%20problemas%20en%20el%20uso%20de%20las%20herramientas%20digitales.%22%2C%22weight%22%3A%221%22%7D%5D%2C%5B%7B%22text%22%3A%22Se%20presenta%20los%20elementos%20de%20introducci%F3n%2C%20desarrollo%20y%20cierre.%22%2C%22weight%22%3A%224%22%7D%2C%7B%22text%22%3A%22Se%20presenta%20solo%20dos%20de%20los%20elementos%20de%20introducci%F3n%2C%20desarrollo%20y%20cierre.%22%2C%22weight%22%3A%223%22%7D%2C%7B%22text%22%3A%22Se%20presenta%20solo%20uno%20de%20los%20elementos%20de%20introducci%F3n%2C%20desarrollo%20y%20cierre.%22%2C%22weight%22%3A%222%22%7D%2C%7B%22text%22%3A%22No%20incluye%20ninguno%20de%20los%20elementos%20de%20introducci%F3n%2C%20desarrollo%20y%20cierre.%22%2C%22weight%22%3A%221%22%7D%5D%2C%5B%7B%22text%22%3A%22Participa%20activamente%20en%20el%20equipo.%22%2C%22weight%22%3A%224%22%7D%2C%7B%22text%22%3A%22Participa%20bastante%20en%20el%20equipo.%22%2C%22weight%22%3A%223%22%7D%2C%7B%22text%22%3A%22Participa%20por%20lo%20general%20en%20el%20equipo.%22%2C%22weight%22%3A%222%22%7D%2C%7B%22text%22%3A%22Participa%20poco%20en%20el%20equipo.%22%2C%22weight%22%3A%221%22%7D%5D%5D%2C%22i18n%22%3A%7B%22activity%22%3A%22Actividad%22%2C%22name%22%3A%22Nombre%22%2C%22date%22%3A%22Fecha%22%2C%22score%22%3A%22Puntuaci%F3n%22%2C%22notes%22%3A%22Notas%22%2C%22reset%22%3A%22Reiniciar%22%2C%22print%22%3A%22Imprimir%22%2C%22apply%22%3A%22Aplicar%22%2C%22newWindow%22%3A%22Ventana%20nueva%22%7D%7D</div><p class="exe-rubrics-authorship"><a href="http://cedec.intef.es/" target="_blank" class="author" rel="noopener">CEDEC</a>. <span class="title"><em>Rúbrica para evaluar un pódcast</em></span> <span class="license">(<a href="http://creativecommons.org/licenses/" rel="license nofollow noopener" target="_blank" title="Creative Commons CC-BY-SA">CC BY-SA</a>)</span></p><ul class="exe-rubrics-strings"><li class="activity">Actividad</li><li class="name">Nombre</li><li class="date">Fecha</li><li class="score">Puntuación</li><li class="notes">Notas</li><li class="reset">Reiniciar</li><li class="print">Imprimir</li><li class="apply">Aplicar</li><li class="newWindow">Ventana nueva</li></ul><div class="exe-rubrics-wrapper"><div class="exe-rubrics-content"><div id="exe-rubrics-header"><div><label for="activity">Actividad:</label><input type="text" id="activity" data-rubric-field="activity" class="form-control form-control-sm"></div><div><label for="name">Nombre:</label><input type="text" id="name" data-rubric-field="name" class="form-control form-control-sm"></div><div><label for="score">Puntuación:</label><input type="text" id="score" data-rubric-field="score" class="form-control form-control-sm"></div><div><label for="date">Fecha:</label><input type="text" id="date" data-rubric-field="date" class="form-control form-control-sm" value="21/4/2026"></div></div><div class="exe-rubrics-table-slot"><table class="exe-table exe-rubrics-export-table" data-rubric-table-type="export"><caption>Rúbrica para evaluar un pódcast</caption><thead><tr><th>&nbsp;</th><th>4 Excelente</th><th>3 Satisfactorio</th><th>2 Mejorable</th><th>1 Insuficiente</th></tr></thead><tbody><tr><th>Contenido</th><td>Se observa buen dominio del contenido. <span>(4)</span></td><td>Se observan algunos problemas en el dominio del contenido. <span>(3)</span></td><td>Hay bastante confusión en el dominio del contenido. <span>(2)</span></td><td>No presenta dominio del contenido. <span>(1)</span></td></tr><tr><th>Manejo de las herramientas digitales de grabación de audio</th><td>Usa las herramientas digitales sin ningún problema. <span>(4)</span></td><td>Usa las herramientas digitales sin grandes problemas. <span>(3)</span></td><td>Usa las herramientas digitales con ayuda. <span>(2)</span></td><td>Tiene bastantes problemas en el uso de las herramientas digitales. <span>(1)</span></td></tr><tr><th>Estructura</th><td>Se presenta los elementos de introducción, desarrollo y cierre. <span>(4)</span></td><td>Se presenta solo dos de los elementos de introducción, desarrollo y cierre. <span>(3)</span></td><td>Se presenta solo uno de los elementos de introducción, desarrollo y cierre. <span>(2)</span></td><td>No incluye ninguno de los elementos de introducción, desarrollo y cierre. <span>(1)</span></td></tr><tr><th>Participación en el trabajo en equipo</th><td>Participa activamente en el equipo. <span>(4)</span></td><td>Participa bastante en el equipo. <span>(3)</span></td><td>Participa por lo general en el equipo. <span>(2)</span></td><td>Participa poco en el equipo. <span>(1)</span></td></tr></tbody></table></div><div id="exe-rubrics-footer"><p><label for="notes">Notas:</label><textarea id="notes" data-rubric-field="notes" class="form-control form-control-sm" cols="32" rows="1"></textarea></p></div><p class="exe-rubrics-actions"><button type="button" class="exe-rubrics-download btn btn-primary btn-sm">Download</button><button type="button" class="exe-rubrics-reset btn btn-primary btn-sm">Reiniciar</button></p></div></div></div><div class="exe-rubrics-richtext-data sr-av"><span class="exe-rubrics-instructions-data"></span><span class="exe-rubrics-text-after-data"></span></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>4</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value>rubric</value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo8qynl3-nizt8kxoi</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>4. Atribución y descarga</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Atribución y descarga</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo8qynl3-nizt8kxoi</odePageId>
+      <odeBlockId>block-mo8qynl4-grci73olh</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo8qynl3-nizt8kxoi</odePageId>
+          <odeBlockId>block-mo8qynl4-grci73olh</odeBlockId>
+          <odeIdeviceId>idevice-mo8qynl4-qt8h5qkg6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mo8qynl3-nizt8kxoi</odePageId>
+      <odeBlockId>block-mo8qynl4-gfru9y7gk</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo8qynl3-nizt8kxoi</odePageId>
+          <odeBlockId>block-mo8qynl4-gfru9y7gk</odeBlockId>
+          <odeIdeviceId>idevice-mo8qynl4-moeo7ew8t</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Información general sobre este recurso educativo<br />Título<br />Planificando un viaje de ensueño<br />Descripción<br />El alumnado organiza un viaje imaginario a un país de habla inglesa (por ejemplo, Reino Unido, Estados Unidos, Irlanda, Australia…). Tendrán que investigar, planificar y presentar su viaje en inglés pasando por diferentes complicaciones.<br />Autoría<br />Guillermo Méndez González<br />Licencia<br />Creative Commons BY-SA 4.0<br />Este contenido fue creado con eXeLearning, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mo8qynl4-moeo7ew8t","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<p>Información general sobre este recurso educativo<br />Título<br />Planificando un viaje de ensueño<br />Descripción<br />El alumnado organiza un viaje imaginario a un país de habla inglesa (por ejemplo, Reino Unido, Estados Unidos, Irlanda, Australia…). Tendrán que investigar, planificar y presentar su viaje en inglés pasando por diferentes complicaciones.<br />Autoría<br />Guillermo Méndez González<br />Licencia<br />Creative Commons BY-SA 4.0<br />Este contenido fue creado con eXeLearning, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo8qynl3-086mp42ei</odePageId>
+  <odeParentPageId>page-mo8qynl3-nizt8kxoi</odeParentPageId>
+  <pageName>Descargar el fichero fuente</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descargar el fichero fuente</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo8qynl3-086mp42ei</odePageId>
+      <odeBlockId>block-mo8qynl4-gj7jshpxy</odeBlockId>
+      <blockName>Descargar archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo8qynl3-086mp42ei</odePageId>
+          <odeBlockId>block-mo8qynl4-gj7jshpxy</odeBlockId>
+          <odeIdeviceId>idevice-mo8qynl4-i7thriyyk</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td>Trabajamos seguros: la Prevención de Riesgos Laborales en el taller de Soldadura y Calderería</td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td>Diseña un caso práctico con la finalidad principal de concienciar al alumnado sobre la importancia de la prevención de riesgos laborales (PRL) en las operaciones propias del módulo Trazado, corte y conformado, promoviendo actitudes seguras, responsables y profesionales en el entorno del taller.</td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td>Daniel G.S.</td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td><a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="license" class="cc cc-by-sa"><span></span>Creative Commons BY-SA 4.0</a></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="http://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a href="exe-package:elp">Descargar el fichero .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
